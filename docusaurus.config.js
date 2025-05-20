@@ -56,24 +56,6 @@ const config = {
         items: [],
         hideOnScroll: false,
       },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Site Map',
-            items: [
-              {
-                label: 'Wiki',
-                to: '/',
-              },
-              {
-                label: 'Internal',
-                to: '/internal',
-              },
-            ],
-          }
-        ],
-      },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,

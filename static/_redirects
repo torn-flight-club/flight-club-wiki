@@ -1,3 +1,1 @@
 /cdn-cgi/access/authorized    /internal/    302!
-/internal/*                   /internal/index.html   200
-/*                            /index.html            200

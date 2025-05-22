@@ -14,7 +14,7 @@ const config = {
   tagline: 'Flight Club Documentation',
   url: 'https://wiki.tornflight.club',
   baseUrl: '/',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/airplane.svg',
   organizationName: 'mobermejo',
   projectName: 'flight-club-wiki',
   trailingSlash: true,
@@ -54,7 +54,7 @@ const config = {
       navbar: {
         title: 'Flight Club Wiki',
         logo: {
-          src: '/public/img/airplane.svg'
+          src: '/img/airplane.svg'
         },
         items: [],
         hideOnScroll: false,

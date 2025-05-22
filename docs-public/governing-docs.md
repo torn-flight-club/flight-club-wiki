@@ -1,26 +1,29 @@
-# TFC 2.0 Governing Documents
+---
+id: charter
+title: Charter
+sidebar_position: 3
+---
+
+# The Flight Club Charter
 
 ## Why does Flight Club exist?
 
-Our core purpose is to help new players earn money and transition into the mid-game.  
-The Club’s second purpose is **FUN!**
-
-We work together to pool resources and share profits.
-
-> **Member balances and profits are sacred and secure** – we will always be completely open about Club finances.
+- Our core purpose is to help new players earn money and transition into the mid-game.  
+- The Club’s second purpose is **FUN!**
+- We work together to pool resources and share profits.
+- **Member balances and profits are sacred and secure** – we will always be completely open about Club finances and member balances will always be available for payment.
 
 ---
 
 ## Club Finances – Where Does the Profit Go?
 
 Any profits we make as a Club are split as follows:
-
 - **50%** Member Monthly Bonus  
 - **9%** Awards and Competition Prize Budget  
 - **20%** Management Salary  
 - **20%** Dev Team Salary  
 - **1%** ‘Other’ Expenses  
-  - e.g. unusual plushie set completion, point sale mug losses, accounting reconciliation
+  - e.g. unusual plushie set completion, point sale mug losses, accounting reconciliation, etc.
 
 We also invest in stock benefit blocks when we can:
 - **80%** of earnings → Awards & Competition Budget  
@@ -67,7 +70,7 @@ You can check your balance and bonus anytime.
 
 ### First-In, First-Out (FIFO)
 
-Items are processed in FIFO order across months.
+The monthly bonus per item is outlined above. However, not all items are exchanged/sold in a given month. Some items will carry over to the next month. Monthly Bonus is paid to the members that sent in items first. In accounting terms, this is a First-In-First-Out (FIFO) order of operations. 
 
 #### FIFO Example
 
@@ -77,6 +80,7 @@ Items are processed in FIFO order across months.
   - **Member A**: $20k × 100 = $1,000,000  
   - **Member B**: $20k × 50 = $500,000  
   - Remaining 50 Xanax from Member B will count toward February’s bonus
+- Flushie sets follow the same principle. If you want to focus on getting 100% of your bonus without waiting until the next month, focus on NFS items as there will be very little carry-over on those from month to month.
 
 ---
 
@@ -90,7 +94,7 @@ Items are processed in FIFO order across months.
   - **Second most needed**: 97%
   - **3 most common items**: 90%
 
-> Check which items are most needed before sending.
+> You can find out which items are most needed by checking NFS. This can change fast so its good to check before you send in your items.
 
 ### Xanax
 

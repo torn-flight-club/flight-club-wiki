@@ -1,7 +1,7 @@
 ---
 id: charter
 title: Charter
-sidebar_position: 3
+sidebar_position: 1
 ---
 
 # The Flight Club Charter

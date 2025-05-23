@@ -8,13 +8,15 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
+const isInternal = process.env.DOCS_ENV === 'internal';
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Flight Club Wiki',
+  title: isInternal ? 'Flight Club Internal Docs' : 'Flight Club Wiki',
   tagline: 'Flight Club Documentation',
-  url: 'https://wiki.tornflight.club',
+  url: isInternal ? 'https://internal.tornflight.club' : 'https://wiki.tornflight.club',
   baseUrl: '/',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/airplane.svg',
   organizationName: 'mobermejo',
   projectName: 'flight-club-wiki',
   trailingSlash: true,
@@ -52,9 +54,9 @@ const config = {
     ({
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Flight Club Wiki',
+        title: isInternal ? 'Flight Club Internal Docs' : 'Flight Club Wiki',
         logo: {
-          src: '/public/img/airplane.svg'
+          src: '/img/airplane.svg'
         },
         items: [],
         hideOnScroll: false,
@@ -68,26 +70,16 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'public',
-        path: 'docs-public',
+        id: isInternal ? 'internal' : 'public',
+        path: isInternal ? 'docs-internal' : 'docs-public',
         routeBasePath: '/',
-        sidebarPath: require.resolve('./sidebarsPublic.js'),
-        editUrl: 'https://github.com/mobermejo/flight-club-wiki/edit/main/docs-public/',
+        sidebarPath: require.resolve(
+          isInternal ? './sidebarsInternal.js' : './sidebarsPublic.js'
+        ),
+        editUrl: `https://github.com/mobermejo/flight-club-wiki/edit/main/${isInternal ? 'docs-internal' : 'docs-public'}/`,
       },
     ],
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'internal',
-        path: 'docs-internal',
-        routeBasePath: '/internal',
-        sidebarPath: require.resolve('./sidebarsInternal.js'),
-        editUrl: 'https://github.com/mobermejo/flight-club-wiki/edit/main/docs-internal/',
-      },
-    ],
-    
   ],
-
 };
 
 export default config;

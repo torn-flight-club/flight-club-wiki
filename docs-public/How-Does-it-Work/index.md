@@ -1,7 +1,6 @@
 ---
 id: works
 title: How Does it Work?
-sidebar_position: 4
 ---
 
 1. To register for the Flight Club. Please visit [tornflight.club](https://tornflight.club) and enter your PUBLIC API key. Our TOS can be found [here](https://tornflight.club/tos); read it before you access our system. Once you have entered our API key, press login, and you are offically a member of the Flight Club. Also join our [Discord](https://discord.gg/G7MRhvzqAG) and ask a member of management for the TFC role.

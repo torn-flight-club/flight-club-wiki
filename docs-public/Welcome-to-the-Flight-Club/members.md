@@ -1,6 +1,6 @@
 ---
-id: members
-title: Members
+id: managers
+title: Managers
 sidebar_position: 1
 ---
 

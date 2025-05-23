@@ -1,5 +1,5 @@
 ---
-id: index
+id: welcome
 title: Welcome to the Flight Club
 sidebar_position: 0
 ---

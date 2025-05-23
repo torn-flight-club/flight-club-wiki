@@ -4,8 +4,10 @@
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
-    "start": "docusaurus start",
-    "build": "docusaurus build && cp static/_redirects build/_redirects",
+    "build:public": "DOCS_ENV=public docusaurus build",
+    "build:internal": "DOCS_ENV=internal docusaurus build",
+    "start:public": "DOCS_ENV=public docusaurus start",
+    "start:internal": "DOCS_ENV=internal docusaurus start",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",

@@ -1,11 +1,11 @@
 ---
-id: managers
-title: Managers
+id: staff
+title: Staff
 sidebar_position: 1
 ---
 
 import StaffMembers from '@site/src/components/StaffMembers';
 
-# Management Members
+# Staff of the Flight Club
 
 <StaffMembers />

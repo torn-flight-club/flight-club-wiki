@@ -8,7 +8,7 @@ sidebar_position: 3
 
 ## Why does Flight Club exist?
 
-- Our core purpose is to help new players earn money and transition into the mid-game.  
+- Our core purpose is to help players earn money.  
 - The Club’s second purpose is **FUN!**
 - We work together to pool resources and share profits.
 - **Member balances and profits are sacred and secure** – we will always be completely open about Club finances and member balances will always be available for payment.

@@ -42,7 +42,7 @@ const config = {
         theme: {
           customCss: [
             require.resolve('./src/css/custom.css'),
-            require.resolve('./src/css/staff-members.css'), 
+            require.resolve('./src/css/staff-members.css'),
           ],
         },
       },
@@ -76,7 +76,9 @@ const config = {
         sidebarPath: require.resolve(
           isInternal ? './sidebarsInternal.js' : './sidebarsPublic.js'
         ),
-        editUrl: `https://github.com/mobermejo/flight-club-wiki/edit/main/${isInternal ? 'docs-internal' : 'docs-public'}/`,
+        ...(isInternal && {
+          editUrl: `https://github.com/torn-flight-club/flight-club-wiki/edit/main/docs-internal/`,
+        }),
       },
     ],
   ],

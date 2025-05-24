@@ -77,7 +77,7 @@ const config = {
           isInternal ? './sidebarsInternal.js' : './sidebarsPublic.js'
         ),
         ...(isInternal && {
-          editUrl: `https://github.com/torn-flight-club/flight-club-wiki/edit/main/docs-internal/`,
+          editUrl: `https://github.com/torn-flight-club/flight-club-wiki/edit/main/`,
         }),
       },
     ],

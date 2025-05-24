@@ -8,6 +8,8 @@
     "build:internal": "DOCS_ENV=internal docusaurus build",
     "start:public": "DOCS_ENV=public docusaurus start",
     "start:internal": "DOCS_ENV=internal docusaurus start",
+    "start:public:win": "set DOCS_ENV=public && docusaurus clear && docusaurus start",
+    "start:internal:win": "set DOCS_ENV=internal && docusaurus clear && docusaurus start",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",

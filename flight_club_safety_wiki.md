@@ -1,4 +1,4 @@
-# Flight Club - Money Safety Guide
+# Flight Club - Keep your Money Safe
 
 ## Overview
 

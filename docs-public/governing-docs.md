@@ -149,7 +149,7 @@ Pending more market research and comparison with top traders.
 ---
 
 ## Crew Titles
-[Crew Titles](./titles.md)
+[Crew Titles](./docs-public/How-Does-it-Work/titles.md)
 - **Cadet** – default
 - **Second Officer** – 90+ days & 1k contribution → 1.01× multiplier
 - **First Officer** – 180+ days & 10k contribution → 1.02× multiplier

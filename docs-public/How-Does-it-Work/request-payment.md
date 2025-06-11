@@ -5,7 +5,7 @@ sidebar_position: 5
 ---
 
 There are 3 ways to request payments
-  - Send $1 to MIA or Gallinfligo. You can leave the Message field blank, or include a message to staff.
+  - Send $1 to MIA, Gallinfligo or any manager. You can leave the Message field blank, or include a message to staff.
   - Use the 'Request Payment' button in your dashboard on the website.
   - Use the bot command /requestpay in discord.
 

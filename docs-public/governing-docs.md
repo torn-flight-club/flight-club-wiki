@@ -179,18 +179,18 @@ Monthly bonuses for the top 10 members:
 
 ### Managers
 
-- Paid a **retainer fee**
+- Paid a **salary**
 - Additional earnings:
   - **Points Sales**: $250 per point (requires History Education)
   - **Bazaar Sales**: 5% of profit margin (trade sales not included)
   - **Stock Benefit Blocks (BBs)**:
     - Manager keeps 10% of payout
     - 90% goes to Club
-    - Losses absorbed by 1% misc fund
+    - Losses are absorbed by 1% misc fund
 
 ### Developers
 
-- Also receive a **retainer**
+- Also receive a **salary**
 - Paid for:
   - Code
   - Design

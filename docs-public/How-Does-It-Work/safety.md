@@ -1,3 +1,9 @@
+---
+id: safety
+title: Keep Your Money Safe
+sidebar_position: 5.5
+---
+
 # Flight Club - Keep your Money Safe
 
 ## Overview

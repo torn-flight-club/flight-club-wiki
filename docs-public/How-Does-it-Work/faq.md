@@ -10,11 +10,11 @@ FAQ
 
     Yes, BUT!
 
-      You don’t have to self hosp while selling in your bazaar or on the points market.
+      You don’t have to self hosp while selling in your bazaar or on the points market, or risk being buy mugged.
 
-      You don’t have to complete the entire flushie set. You can fly/buy only camels,dahlia, etc.
+      You don’t have to complete the entire flushie set. You can fly/buy only camels,dahlia etc - fly where it suits you!
 
-      You don’t have to pay the item market tax to sell items
+      You don’t have to pay the item market tax to sell items.
 
       Traders pay 5-10% below market price and keep ALL of the profit when they sell.
 

@@ -267,10 +267,6 @@ This method is used by Flight Club managers to secure funds.
 - **Top Gun: Need for Speed 2.0**
 - **Top Gun: Payback**
 - **Top Gun: Inverted**
-- **Xanax Award**
-- **Smoke Grenade Award**
-- **Most Xanax Sent Award**
-- **Most Trips to SA Award**
 - **Monthly Top 10 Rankings**
 - **Crew Titles**
 

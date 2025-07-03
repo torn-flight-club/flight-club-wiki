@@ -28,6 +28,9 @@ You don't have to fly for sets, but to help maximise set completion we recommend
 - No need to set a trade, you can send items anytime you want directly from your inventory.
 - Go to your items tab and select the item type you wish to send – temps, drugs, flowers, or plushies
 
+<div style={{ textAlign: "center" }}>
+  <img src="/img/tfc-logo.webp" alt="TFC logo" style={{ maxWidth: "300px" }} />
+</div>
 *[IMAGE PLACEHOLDER: Screenshot of Torn inventory interface showing item tabs]*
 
 - Select the item that you will be contributing and click the send button.  

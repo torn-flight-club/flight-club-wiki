@@ -4,10 +4,6 @@ sidebar_position: 5
 
 ### Page 5: How Flight Club Calculates Prices and Bonuses
 
-```markdown
-
-
-# How Flight Club calculates prices and bonuses
 
 ## How are Flight Club prices calculated?
 
@@ -15,7 +11,9 @@ sidebar_position: 5
 - Flight Club prices are updated every few hours
 - You can see Flight Club Prices live in our discord channel #pricelist 
 
-*[IMAGE PLACEHOLDER: Screenshot of Discord #pricelist channel showing current prices]*
+<div style="text-align: center;">
+  <img src="/static/img/discord_pricelist_example.png" />
+</div>
 
 Example only, prices change frequently in line with the market.
 
@@ -69,6 +67,3 @@ We are also planning to reintroduce dynamic pricing so that you will earn more b
 You can find out which items are most needed by using the command /flyme in our discord.
 
 You can also watch bazaars and the item market and buy items you see listed at less than market price and sell them to club.
-```
-
----

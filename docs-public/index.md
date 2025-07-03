@@ -1,7 +1,7 @@
 ---
 id: Quick Guide to Getting Started
 title: Welcome to Flight Club
-sidebar_position: 1
+sidebar_position: 0
 ---
 ### Page 1: Quick Guide to Getting Started
 ```markdown

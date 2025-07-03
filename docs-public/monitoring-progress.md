@@ -3,10 +3,6 @@ sidebar_position: 6
 ---
 ### Page 6: Monitoring Progress
 
-
-
-# Monitoring progress
-
 Your Flight Club Dashboard shows you:
 - Your current monthly bonus.
 - Your outstanding payment 

@@ -1,5 +1,4 @@
 ### Page 6: Monitoring Progress
-**File: `monitoring-progress.md`**
 
 ```markdown
 ---

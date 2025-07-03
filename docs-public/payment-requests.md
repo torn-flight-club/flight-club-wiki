@@ -1,9 +1,9 @@
-### Page 4: How to Ask for Your Money
-
-```markdown
 ---
 sidebar_position: 4
 ---
+### Page 4: How to Ask for Your Money
+
+```markdown
 
 # How to ask for your money
 

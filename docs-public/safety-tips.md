@@ -1,5 +1,4 @@
 ### Page 7: Keeping Your Money Safe
-**File: `safety-tips.md`**
 
 ```markdown
 ---

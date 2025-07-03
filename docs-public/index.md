@@ -9,7 +9,6 @@ sidebar_position: 0
   <p>Any question? Talk to one of our <a href="/Management/members/">Management Members!</a></p>
 </div>
 
-
 ### Page 1: How Flight Club works – quick guide to getting started
 
 

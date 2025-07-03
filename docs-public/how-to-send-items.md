@@ -5,10 +5,6 @@ sidebar_position: 3
 ---
 ### Page 3: How to Send Items
 
-
-
-# How to send items
-
 ## What items does The Flight Club deal in?
 
 We currently deal with all plushies and flowers that make up Museum Sets, as well as Xanax, and temps (temporary weapons like grenades). You can see the full list of items and the prices paid here: https://tornflight.club/items

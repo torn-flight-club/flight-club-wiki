@@ -1,9 +1,11 @@
-### Page 5: How Flight Club Calculates Prices and Bonuses
-
-```markdown
 ---
 sidebar_position: 5
 ---
+
+### Page 5: How Flight Club Calculates Prices and Bonuses
+
+```markdown
+
 
 # How Flight Club calculates prices and bonuses
 

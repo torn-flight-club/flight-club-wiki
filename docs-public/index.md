@@ -3,11 +3,8 @@ id: Quick Guide to Getting Started
 title: Welcome to Flight Club
 sidebar_position: 0
 ---
-### Page 1: Quick Guide to Getting Started
-```markdown
+### Page 1: How Flight Club works – quick guide to getting started
 
-
-# How Flight Club works – quick guide to getting started
 
 ## Quick Start Guide
 

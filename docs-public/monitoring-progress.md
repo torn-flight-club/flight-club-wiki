@@ -1,9 +1,9 @@
-### Page 6: Monitoring Progress
-
-```markdown
 ---
 sidebar_position: 6
 ---
+### Page 6: Monitoring Progress
+
+```markdown
 
 # Monitoring progress
 

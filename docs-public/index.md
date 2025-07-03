@@ -29,7 +29,7 @@ sidebar_position: 0
 
 ## How it Works
 <div style="text-align: center;">
-  <img src="/static/img/dashboard_1.png" />
+  <img src="/static/img/howflightclubworks.jpg" />
 </div>
 
 ## Why join?

@@ -1,5 +1,4 @@
 ### Page 3: How to Send Items
-**File: `how-to-send-items.md`**
 
 ```markdown
 ---

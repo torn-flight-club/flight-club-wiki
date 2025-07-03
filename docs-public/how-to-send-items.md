@@ -5,7 +5,7 @@ sidebar_position: 3
 ---
 ### Page 3: How to Send Items
 
-```markdown
+
 
 # How to send items
 
@@ -44,7 +44,4 @@ You don't have to fly for sets, but to help maximise set completion we recommend
 - The Flight Club system will automatically update and your contribution will be recorded and updated within 5-10 minutes. 
 - You can check and see that it updates on the dashboard or in the contributions channel. 
 - After sending items please wait at least 10 minutes before asking for your cash, so the system can catch up.
-```
-
----
 

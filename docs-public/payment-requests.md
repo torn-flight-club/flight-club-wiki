@@ -3,15 +3,15 @@ sidebar_position: 4
 ---
 ### Page 4: How to Ask for Your Money
 
-```markdown
 
-# How to ask for your money
+
+
 
 ## Where do I see how much money I have owing?
 
 - On your dashboard you can always see your balance owing, and also your estimated bonus to be paid at the end of each month.
 
-*[IMAGE PLACEHOLDER: Screenshot of Flight Club dashboard showing balance and bonus information]*
+dashboard_1
 
 - In Discord you can use the /mystats command to see your outstanding balance.
 
@@ -27,7 +27,3 @@ sidebar_position: 4
 
 - Yes, You can either request your full balance, or just a portion of what you are owed (eg for running Xanax and or requesting just enough cash to buy items when you land).
 - If you don't add any note or specify any particular amount, we will send your full balance.
-```
-
----
-

@@ -1,28 +1,40 @@
-### Page 2: How to Join Us
-**File: `how-to-join.md`**
-
-```markdown
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# How to join us - register on our website and discord
+# How Flight Club works – quick guide to getting started
 
-1. To register for the Flight Club. Please visit tornflight.club and enter your PUBLIC API key. 
-2. Our TOS can be found here; please read it before you access our system. 
-3. Once you have entered your API key, press login, and you are now officially a member of the Flight Club – Welcome aboard!. This means you can start sending in items straight away.
-4. Now you have registered on our website, you can join our Discord and our system will automatically assign the TFC member role, this may take up to an hour but it auto runs every hour, please be patient. It is not a requirement to join our Discord, but we recommend it for, reading announcements and updates on prices and priority items, and for participating in competitions, team games and community chat.
+## Quick Start Guide
 
-With our new system, we no longer require our members to join our discord server, but it is highly recommended because it is where you can access:
+1. Sign up at [tornflight.club](https://tornflight.club) and join our Discord 
+2. Fly or market-buy Plushies or Flowers, or selected Drugs and Other Items (Temps).
+3. Send your items to The Flight Club
+   - Send Drugs and Other Items (Temps) to GalloInfligo.
+   - Send Flowers or Plushies to MIA.
+4. Wait a few minutes for your contribution to register. You can see it popping up in Discord Contributions channel.
+5. Check your dashboard to check your Outstanding Balance for all items you have sent and the prizes you have earned.
+6. Request payment when you need it by sending $1 to any manager, using the payment request button on the dashboard, or using /requestpay command in discord.
+7. No managers need to be online for your request to be seen by our team.
+8. After requesting payment, wait to send any more items until after you have received your cash.
+9. Rinse and Repeat.
 
-1. **Announcements**
-   1. Price Updates
-   2. Stock Updates
-2. **Club Chat**
-3. **Contributions Log** (Every contribution is posted live automatically)
-4. **Access to weekly lotto's**
-5. Please ensure you follow our Rules.
-```
+## Why join?
 
----
+- **Proven track record**: Four successful seasons and loyal long-term members
+- **Top-tier pricing**: Our offers consistently beat most traders
+- **Safe & scam-free**: Avoid buy-muggers and shady trades 
+- **Flexible payouts**: We hold your funds safely until you're ready to withdraw 
+- **We are a club not a faction**: you get to stay in your faction while being a member
+- **Monthly bonuses**: Earn rewards based on your item contributions 
+- **Community & competition**: Join fun team events and win prizes 
+- **Friendly players worldwide**: Connect with like-minded Torn users 
+- **Powerful tools**: Legit, Torn-compliant systems to help you find the best marketplace deals 
+- **Full transparency**: Real-time tracking and open accounting
 
+## About The Flight Club
+
+In our 5th year of operation, we are a group of over 400 serious flyers and market watchers who work together to pool resources and share profits. With over $700 Billion worth of items processed last season, we don't have to individually collect sets or let a trader make all the profit off of our hard work.
+
+Last season we exchanged over 1.1 million sets at the Museum, and sold the points gained for profit to be shared among our members. We also traded over 300,000 Xanax that were submitted by members. To make these successes happen, the Club provides tools and resources that ensure safe and fair prices are paid for items submitted. We also have contracts in place with factions in order to regularly supply them Xanax and temps.
+
+Ready to make some cash? Sign up now at [tornflight.club](https://tornflight.club) and check us out on Discord

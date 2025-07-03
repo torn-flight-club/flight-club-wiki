@@ -1,11 +1,3 @@
-# Flight Club Docusaurus Documentation Structure
-
-## Main Category: How Flight Club works
-
-### Page 1: Quick Guide to Getting Started
-**File: `quick-guide.md`**
-
-```markdown
 ---
 sidebar_position: 1
 ---
@@ -14,7 +6,7 @@ sidebar_position: 1
 
 ## Quick Start Guide
 
-1. Sign up at tornflight.club and join our Discord 
+1. Sign up at [tornflight.club](https://tornflight.club) and join our Discord 
 2. Fly or market-buy Plushies or Flowers, or selected Drugs and Other Items (Temps).
 3. Send your items to The Flight Club
    - Send Drugs and Other Items (Temps) to GalloInfligo.
@@ -45,7 +37,4 @@ In our 5th year of operation, we are a group of over 400 serious flyers and mark
 
 Last season we exchanged over 1.1 million sets at the Museum, and sold the points gained for profit to be shared among our members. We also traded over 300,000 Xanax that were submitted by members. To make these successes happen, the Club provides tools and resources that ensure safe and fair prices are paid for items submitted. We also have contracts in place with factions in order to regularly supply them Xanax and temps.
 
-Ready to make some cash? Sign up now at tornflight.club and check us out on Discord
-```
-
----
+Ready to make some cash? Sign up now at [tornflight.club](https://tornflight.club) and check us out on Discord

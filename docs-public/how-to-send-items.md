@@ -1,7 +1,7 @@
 ---
 id: How to Send Items
 title: How to Send Items
-sidebar_position: 3
+sidebar_position: 2
 ---
 ### Page 3: How to Send Items
 

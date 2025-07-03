@@ -6,7 +6,6 @@ sidebar_position: 1
 ### Page 2: How to Join Us
 
 
-
 # Register on our website and discord
 
 1. To register for the Flight Club. Please visit tornflight.club and enter your PUBLIC API key. 

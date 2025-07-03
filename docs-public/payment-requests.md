@@ -1,5 +1,4 @@
 ### Page 4: How to Ask for Your Money
-**File: `payment-requests.md`**
 
 ```markdown
 ---

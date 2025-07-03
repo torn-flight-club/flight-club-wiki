@@ -29,11 +29,15 @@ Here are some ways to Hospitalize Yourself:
 
 Once in hospital, you can set up what's called a "ghost trade" with a buddy
 
-*[IMAGE PLACEHOLDER: Screenshot of Torn trade interface setup]*
+<div style="text-align: center;">
+  <img src="/static/img/ghost_trade.png" />
+</div>
 
 Put your money into the trade – and don't click accept
 
-*[IMAGE PLACEHOLDER: Screenshot of Torn trade with money added but not accepted]*
+<div style="text-align: center;">
+  <img src="/static/img/ghosttrade2.png" />
+</div>
 
 Cancel the trade later when you are ready to keep your money safe. Trades stay active for up to 6 hours, so you have plenty of time to prepare to deposit your money somewhere safe. This is how we managers keep Flight Club money safe when we sell points or items.
 
@@ -43,10 +47,8 @@ We keep your information and requests very safe at the Flight Club.
 
 API Security Recommendations - If you've shared anything other than your public API with an old faction or in a tool you found in Torn, it can be a good idea to refresh it and get a new one.
 
-*[IMAGE PLACEHOLDER: Screenshot of Torn API key management interface]*
+<div style="text-align: center;">
+  <img src="/static/img/dashboard.png" />
+</div>
 
 Stay safe out there!
-```
-
----
-

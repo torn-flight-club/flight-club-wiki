@@ -36,7 +36,9 @@ You don't have to fly for sets, but to help maximise set completion we recommend
 - Type in the UserID section either MIA[131289] (plushies and flowers) or GalloInfligo[2133394] (drugs and temps). 
 - Type the number of items you want to send and click Send.
 
-*[IMAGE PLACEHOLDER: Screenshot of Torn send item interface with user ID and quantity fields]*
+<div style="text-align: center;">
+  <img src="/static/img/sending_items_2.png" />
+</div>
 
 ## How do I know the items I sent went to the right place?
 

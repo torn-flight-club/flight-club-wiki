@@ -11,7 +11,9 @@ sidebar_position: 4
 
 - On your dashboard you can always see your balance owing, and also your estimated bonus to be paid at the end of each month.
 
-dashboard_1
+<div style="text-align: center;">
+  <img src="/static/img/discord_1_stats.png" />
+</div>
 
 - In Discord you can use the /mystats command to see your outstanding balance.
 

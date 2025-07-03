@@ -1,6 +1,6 @@
 ---
 id: How to Join Us
-title: ow to Join Us
+title: How to Join Us
 sidebar_position: 1
 ---
 ### Page 2: How to Join Us

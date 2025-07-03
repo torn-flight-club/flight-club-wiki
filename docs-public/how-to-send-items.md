@@ -1,9 +1,11 @@
+---
+id: How to Send Items
+title: How to Send Items
+sidebar_position: 3
+---
 ### Page 3: How to Send Items
 
 ```markdown
----
-sidebar_position: 3
----
 
 # How to send items
 

@@ -67,3 +67,4 @@ We are also planning to reintroduce dynamic pricing so that you will earn more b
 You can find out which items are most needed by using the command /flyme in our discord.
 
 You can also watch bazaars and the item market and buy items you see listed at less than market price and sell them to club.
+

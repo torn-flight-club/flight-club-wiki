@@ -4,9 +4,6 @@ sidebar_position: 3
 ### Page 4: How to Ask for Your Money
 
 
-
-
-
 ## Where do I see how much money I have owing?
 
 - On your dashboard you can always see your balance owing, and also your estimated bonus to be paid at the end of each month.

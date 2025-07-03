@@ -1,5 +1,4 @@
 ### Page 5: How Flight Club Calculates Prices and Bonuses
-**File: `prices-and-bonuses.md`**
 
 ```markdown
 ---

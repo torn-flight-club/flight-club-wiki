@@ -36,6 +36,7 @@ You don't have to fly for sets, but to help maximise set completion we recommend
   <img src="/static/img/sending_items_2.png" />
 </div>
 
+
 ## How do I know the items I sent went to the right place?
 
 - The Flight Club system will automatically update and your contribution will be recorded and updated within 5-10 minutes. 

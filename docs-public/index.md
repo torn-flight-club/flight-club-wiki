@@ -3,6 +3,9 @@ id: Quick Guide to Getting Started
 title: Welcome to Flight Club
 sidebar_position: 0
 ---
+tfc-logo.webp
+
+
 ### Page 1: How Flight Club works – quick guide to getting started
 
 

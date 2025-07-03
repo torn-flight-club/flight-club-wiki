@@ -1,9 +1,10 @@
-### Page 7: Keeping Your Money Safe
-
-```markdown
 ---
 sidebar_position: 7
 ---
+### Page 7: Keeping Your Money Safe
+
+```markdown
+
 
 # Keeping your money safe in Torn – some tips 
 

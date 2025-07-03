@@ -11,7 +11,6 @@ sidebar_position: 0
 
 ### Page 1: How Flight Club works – quick guide to getting started
 
-
 ## Quick Start Guide
 
 1. Sign up at tornflight.club and join our Discord 

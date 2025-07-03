@@ -3,10 +3,6 @@ sidebar_position: 7
 ---
 ### Page 7: Keeping Your Money Safe
 
-```markdown
-
-
-# Keeping your money safe in Torn – some tips 
 
 Muggings are a part of Torn life, and are especially common in South Africa. This guide will help you stay safe when receiving Flight Club payments and managing your money in-game.
 

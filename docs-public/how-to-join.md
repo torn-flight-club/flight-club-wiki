@@ -1,7 +1,4 @@
----
-
 ### Page 2: How to Join Us
-**File: `how-to-join.md`**
 
 ```markdown
 ---

@@ -27,6 +27,11 @@ sidebar_position: 0
 8. After requesting payment, wait to send any more items until after you have received your cash.
 9. Rinse and Repeat.
 
+## How it Works
+<div style="text-align: center;">
+  <img src="/static/img/dashboard_1.png" />
+</div>
+
 ## Why join?
 
 - **Proven track record**: Four successful seasons and loyal long-term members

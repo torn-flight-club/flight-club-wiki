@@ -29,7 +29,7 @@ You don't have to fly for sets, but to help maximise set completion we recommend
 - Go to your items tab and select the item type you wish to send – temps, drugs, flowers, or plushies
 
 <div style={{ textAlign: "center" }}>
-  <img src="/img/sending_items_1.png" />
+  <img src="/static/img/sending_items_1.png" />
 </div>
 *[IMAGE PLACEHOLDER: Screenshot of Torn inventory interface showing item tabs]*
 

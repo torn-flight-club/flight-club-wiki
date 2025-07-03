@@ -1,9 +1,11 @@
+---
+id: How to Join Us
+title: ow to Join Us
+sidebar_position: 1
+---
 ### Page 2: How to Join Us
 
 ```markdown
----
-sidebar_position: 2
----
 
 # How to join us - register on our website and discord
 

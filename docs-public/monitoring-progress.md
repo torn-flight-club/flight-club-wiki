@@ -15,3 +15,4 @@ The inventory channel in Discord shows:
 <div style="text-align: center;">
   <img src="/static/img/dashboard_1.png" />
 </div>
+

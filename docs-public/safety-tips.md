@@ -45,11 +45,8 @@ Cancel the trade later when you are ready to keep your money safe. Trades stay a
 
 We keep your information and requests very safe at the Flight Club.
 
-API Security Recommendations - If you've shared anything other than your public API with an old faction or in a tool you found in Torn, it can be a good idea to refresh it and get a new one.
+API Security Recommendations - If you've shared anything other than your public API with an old faction or in a tool you found in Torn, it can be a good idea to refresh it and get a new one.  You can do that here, <a href="[destination_url](https://www.torn.com/preferences.php#tab=api)">Torn's API Page</a>
 
-<div style="text-align: center;">
-  <img src="/static/img/dashboard.png" />
-</div>
 
 Stay safe out there!
 

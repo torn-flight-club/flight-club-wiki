@@ -24,7 +24,7 @@ You don't have to fly for sets, but to help maximise set completion we recommend
 - No need to set a trade, you can send items anytime you want directly from your inventory.
 - Go to your items tab and select the item type you wish to send – temps, drugs, flowers, or plushies
 
-<div style="text-align: center;">
+<div style={{ textAlign: 'center' }}>
   <img src="/static/img/sending_items_1.png" />
 </div>
 
@@ -32,7 +32,7 @@ You don't have to fly for sets, but to help maximise set completion we recommend
 - Type in the UserID section either MIA[131289] (plushies and flowers) or GalloInfligo[2133394] (drugs and temps). 
 - Type the number of items you want to send and click Send.
 
-<div style="text-align: center;">
+<div style={{ textAlign: 'center' }}>
   <img src="/static/img/sending_items_2.png" />
 </div>
 

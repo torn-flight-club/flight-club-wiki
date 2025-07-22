@@ -22,3 +22,4 @@ With our new system, we no longer require our members to join our discord server
 3. **Contributions Log** (Every contribution is posted live automatically)
 4. **Access to weekly lotto's**
 5. Please ensure you follow our Rules.
+

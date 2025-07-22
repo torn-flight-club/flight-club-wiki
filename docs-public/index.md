@@ -48,5 +48,3 @@ sidebar_position: 0
 In our 5th year of operation, we are a group of over 400 serious flyers and market watchers who work together to pool resources and share profits. With over $700 Billion worth of items processed last season, we don't have to individually collect sets or let a trader make all the profit off of our hard work.
 
 Last season we exchanged over 1.1 million sets at the Museum, and sold the points gained for profit to be shared among our members. We also traded over 300,000 Xanax that were submitted by members. To make these successes happen, the Club provides tools and resources that ensure safe and fair prices are paid for items submitted. We also have contracts in place with factions in order to regularly supply them Xanax and temps.
-
-

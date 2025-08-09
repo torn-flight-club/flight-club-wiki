@@ -25,7 +25,7 @@ You don't have to fly for sets, but to help maximise set completion we recommend
 - Go to your items tab and select the item type you wish to send – temps, drugs, flowers, or plushies
 
 <div style={{ textAlign: 'center' }}>
-  <img src="/static/img/sending_items_1.png" />
+  <img src="/img/sending_items_1.png" />
 </div>
 
 - Select the item that you will be contributing and click the send button.  
@@ -33,7 +33,7 @@ You don't have to fly for sets, but to help maximise set completion we recommend
 - Type the number of items you want to send and click Send.
 
 <div style={{ textAlign: 'center' }}>
-  <img src="/static/img/sending_items_2.png" />
+  <img src="/img/sending_items_2.png" />
 </div>
 
 

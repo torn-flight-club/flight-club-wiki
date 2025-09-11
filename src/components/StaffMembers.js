@@ -35,9 +35,10 @@ const StaffGrid = () => {
   const staff = [
     { name: 'MIA', role: 'Management', id: '131289', description: 'Flower and Plushies', imageUrl: 'https://profileimages.torn.com/7bad1e2c-afea-460f-a537-8bbf29cf33ca-131289.jpg' },
     { name: 'Galloinfligo', role: 'Management', id: '2133394', description: 'Drugs and Temps', imageUrl: 'https://profileimages.torn.com/40407415-54d0-727d-2133394.gif' },
-    { name: 'Coconut', role: 'Management', id: '2236969', imageUrl: 'https://profileimages.torn.com/4c1e50b2-354d-8b60-2236969.png' },
-    { name: 'Kaneki', role: 'Management', id: '2685512', imageUrl: 'https://profileimages.torn.com/c3948e2c-dc03-47e9-9b72-7aed52959077-2685512.png' },
     { name: 'Neosus', role: 'Management', id: '2641396', imageUrl: 'https://profileimages.torn.com/460bde7e-f162-4b72-9d07-2665e38fb2c8-2641396.png' },
+    { name: 'harpy', role: 'Management', id: '2630673', imageUrl: 'https://profileimages.torn.com/1662e9a8-466d-4ea5-894a-8e6e76fc5365-2630673.png' },
+    { name: 'Coconut', role: 'Management', id: '2236969', imageUrl: 'https://profileimages.torn.com/4c1e50b2-354d-8b60-2236969.png' },
+    { name: 'Kaneki', role: 'Management', id: '2685512', imageUrl: 'https://profileimages.torn.com/c3948e2c-dc03-47e9-9b72-7aed52959077-2685512.png' },    
     { name: 'TheFelan', role: 'Management', id: '945786', imageUrl: 'https://profileimages.torn.com/9081ec72-a0d8-0f1a-945786.gif' },
     { name: 'harpy', role: 'Management', id: '2630673', imageUrl: 'https://profileimages.torn.com/1662e9a8-466d-4ea5-894a-8e6e76fc5365-2630673.png' },
     { name: 'madbuns', role: 'Management', id: '1811936', imageUrl: 'https://profileimages.torn.com/9793fd8c-f5bc-8466-1811936.jpg' },

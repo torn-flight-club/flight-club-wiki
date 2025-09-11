@@ -4,8 +4,13 @@ const StaffCard = ({ name, role, id, description, imageUrl }) => {
   const fallbackImage = `https://placehold.co/160x160/F3F4F6/6B7280?text=${name.split(' ')[0] || 'User'}`;
   const profileUrl = `https://www.torn.com/profiles.php?XID=${id}`;
 
+  const CardWrapper = role === "Council" ? "div" : "a";
+  const cardProps = role === "Council"
+    ? { className: "staff-card" }
+    : { href: profileUrl, target: "_blank", rel: "noopener noreferrer", className: "staff-card" };
+
   return (
-    <a href={profileUrl} target="_blank" rel="noopener noreferrer" className="staff-card">
+    <CardWrapper {...cardProps}>
       <div className="image-container">
         <img
           src={imageUrl || fallbackImage}
@@ -22,7 +27,7 @@ const StaffCard = ({ name, role, id, description, imageUrl }) => {
         <p>[{id}]</p>
         {description && <p>{description}</p>}
       </div>
-    </a>
+    </CardWrapper>
   );
 };
 
@@ -38,6 +43,9 @@ const StaffGrid = () => {
     { name: 'madbuns', role: 'Management', id: '1811936', imageUrl: 'https://profileimages.torn.com/9793fd8c-f5bc-8466-1811936.jpg' },
     { name: 'Marzen', role: 'Developer', id: '3385879', description: 'Website Developer', imageUrl: 'https://profileimages.torn.com/ce1ba452-29b1-4bf5-913b-f850c49b93e2-3385879.png' },
     { name: 'Oldmandanky', role: 'Developer', id: '3191055', description: 'Bot Developer', imageUrl: 'https://profileimages.torn.com/a43e6b4b-ce9e-4323-a3b4-cf2eb0f73479-3191055.png' },
+    { name: 'Anenes', role: 'Council', id: '2646884', imageUrl: 'https://profileimages.torn.com/9dc90362-e06b-4764-aeee-d51a24592573-2646884.gif' },
+    { name: 'Kv0the', role: 'Council', id: '2153277', description: 'Founder', imageUrl: 'https://profileimages.torn.com/34d700f5-268c-a7fb-2153277.png' },
+    { name: 'krasswez', role: 'Council', id: '2667147', imageUrl: 'https://profileimages.torn.com/228c78bc-31b4-4eec-ac03-1d168a2493e4-2667147.png' },
     { name: 'Zoblefu', role: 'Developer', id: '2890330', imageUrl: 'https://profileimages.torn.com/68abf78b-2249-52bd-2890330.png' },
   ];
 

@@ -2,6 +2,8 @@ backend:
   name: github
   repo: torn-flight-club/flight-club-wiki
   branch: main
+  auth_scope: repo
+  client_id: Ov23li0GHGbIrWkiD7sM
 
 media_folder: static/img
 public_folder: /img
@@ -13,9 +15,9 @@ collections:
     create: true
     slug: "{{slug}}"
     format: "frontmatter"
-    extension: "md"
     fields:
       - { name: "title", label: "Title", widget: "string" }
+      - { name: "sidebar_position", label: "Sidebar Position", widget: "number", required: false }
       - { name: "body", label: "Body", widget: "markdown" }
 
   - name: "docs_internal"
@@ -24,7 +26,7 @@ collections:
     create: true
     slug: "{{slug}}"
     format: "frontmatter"
-    extension: "md"
     fields:
       - { name: "title", label: "Title", widget: "string" }
+      - { name: "sidebar_position", label: "Sidebar Position", widget: "number", required: false }
       - { name: "body", label: "Body", widget: "markdown" }

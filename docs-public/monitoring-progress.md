@@ -1,4 +1,5 @@
 ---
+title: Monitoring Progress
 sidebar_position: 5
 ---
 ### Page 6: Monitoring Progress

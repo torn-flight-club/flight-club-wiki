@@ -4,8 +4,11 @@ backend:
   branch: main
   client_id: Ov23li0GHGbIrWkiD7sM
 
-media_folder: static/img
-public_folder: /img
+media_folder: "static/img"
+public_folder: "/img"
+
+media_library:
+  name: "uploads"
 
 collections:
   - name: "docs_public"

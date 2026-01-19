@@ -1,4 +1,5 @@
 ---
+title: How Flight Club Calculates Prices and Bonuses
 sidebar_position: 4
 ---
 

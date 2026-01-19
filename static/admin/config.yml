@@ -2,7 +2,6 @@ backend:
   name: github
   repo: torn-flight-club/flight-club-wiki
   branch: main
-  auth_scope: repo
   client_id: Ov23li0GHGbIrWkiD7sM
 
 media_folder: static/img

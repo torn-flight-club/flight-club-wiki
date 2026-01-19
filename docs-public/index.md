@@ -3,8 +3,8 @@ id: Quick Guide to Getting Started
 title: Welcome to Flight Club
 sidebar_position: 0
 ---
-<div style={{ textAlign: 'center' }}>
-  <img src="/img/tfc-logo.webp" alt="TFC logo" style={{ maxWidth: "300px" }} />
+<div style="text-align: center;">
+  <img src="/img/tfc-logo.webp" alt="TFC logo" style="max-width: 300px;" />
   <p>Head to <a href="https://tornflight.club" target="_blank" rel="noopener noreferrer">tornflight.club</a> to sign up!</p>
   <p>Any question? Talk to one of our <a href="/Management/members/">Management Members!</a></p>
   <p><a href="http://discord.gg/G7MRhvzqAG">Join our discord server!</a></p>
@@ -14,7 +14,7 @@ sidebar_position: 0
 
 ## Quick Start Guide
 
-1. Sign up at <a href="https://tornflight.club">tornflight.club</a> and join our Discord 
+1. Sign up at <a href="https://tornflight.club">tornflight.club</a> and join our Discord
 2. Fly or market-buy Plushies or Flowers, or selected Drugs and Other Items (Temps).
 3. Send your items to The Flight Club
    - Send Drugs and Other Items (Temps) to GalloInfligo.
@@ -27,7 +27,7 @@ sidebar_position: 0
 9. Rinse and Repeat.
 
 ## How it Works
-<div style={{ textAlign: 'center' }}>
+<div style="text-align: center;">
   <img src="/img/howflightclubworks.jpg" />
 </div>
 
@@ -35,13 +35,13 @@ sidebar_position: 0
 
 - **Proven track record**: Four successful seasons and loyal long-term members
 - **Top-tier pricing**: Our offers consistently beat most traders
-- **Safe & scam-free**: Avoid buy-muggers and shady trades 
-- **Flexible payouts**: We hold your funds safely until you're ready to withdraw 
+- **Safe & scam-free**: Avoid buy-muggers and shady trades
+- **Flexible payouts**: We hold your funds safely until you're ready to withdraw
 - **We are a club not a faction**: you get to stay in your faction while being a member
-- **Monthly bonuses**: Earn rewards based on your item contributions 
-- **Community & competition**: Join fun team events and win prizes 
-- **Friendly players worldwide**: Connect with like-minded Torn users 
-- **Powerful tools**: Legit, Torn-compliant systems to help you find the best marketplace deals 
+- **Monthly bonuses**: Earn rewards based on your item contributions
+- **Community & competition**: Join fun team events and win prizes
+- **Friendly players worldwide**: Connect with like-minded Torn users
+- **Powerful tools**: Legit, Torn-compliant systems to help you find the best marketplace deals
 - **Full transparency**: Real-time tracking and open accounting
 
 ## About The Flight Club

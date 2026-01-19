@@ -8,7 +8,7 @@ Muggings are a part of Torn life, and are especially common in South Africa. Thi
 
 ## Avoiding mugs overseas
 
-If you are heading to South Africa to buy Xanax, try and be online when you land as you get a 15 second mug protection which should give you time to quickly shop and leave town! 
+If you are heading to South Africa to buy Xanax, try and be online when you land as you get a 15 second mug protection which should give you time to quickly shop and leave town!
 
 Remember you can request the exact amount you need, if you don't request an amount, you will be sent your whole balance.
 
@@ -29,13 +29,13 @@ Here are some ways to Hospitalize Yourself:
 
 Once in hospital, you can set up what's called a "ghost trade" with a buddy
 
-<div style={{ textAlign: 'center' }}>
+<div style="text-align: center;">
   <img src="/img/ghost_trade.png" />
 </div>
 
 Put your money into the trade – and don't click accept
 
-<div style={{ textAlign: 'center' }}>
+<div style="text-align: center;">
   <img src="/img/ghosttrade2.png" />
 </div>
 
@@ -49,4 +49,3 @@ API Security Recommendations - If you've shared anything other than your public 
 
 
 Stay safe out there!
-

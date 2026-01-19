@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: torn-flight-club/flight-club-wiki
   branch: main
   client_id: Ov23li0GHGbIrWkiD7sM

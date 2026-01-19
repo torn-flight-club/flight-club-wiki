@@ -1,4 +1,5 @@
 ---
+title: Keeping Your Money Safe
 sidebar_position: 6
 ---
 ### Page 7: Keeping Your Money Safe

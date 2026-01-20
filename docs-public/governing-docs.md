@@ -113,28 +113,6 @@ Pending more market research and comparison with top traders.
 
 - - -
 
-
-
-- - -
-
-## Monthly Top 10 Rankings
-
-Monthly bonuses for the top 10 members:
-
-| Rank | Bonus |
-| ---- | ----- |
-| 1st  | $1m   |
-| 2nd  | $900k |
-| 3rd  | $800k |
-| ...  | ...   |
-| 10th | $100k |
-
-- - -
-
-> ⚠️ **Note:** Competitions and payouts can change. All changes will be announced in advance and scheduled to start at the beginning of a month - unless urgent changes are needed for Club financial stability.
-
-- - -
-
 ## Manager & Developer Compensation
 
 ### Managers

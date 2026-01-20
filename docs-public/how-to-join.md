@@ -5,8 +5,14 @@ sidebar_position: 1
 ---
 # Register on our website and discord
 
-1. To register for the Flight Club. Please visit tornflight.club and enter your PUBLIC API key. 
-2. Our TOS can be found here; please read it before you access our system. 
+1. To register for the Flight Club. Please  
+     <p>Head to <a href="https://tornflight.club" target="_blank" rel="noopener noreferrer">tornflight.club</a> to enter your PUBLIC API key and sign up!</p> 
+     <p>Any question? Talk to one of our <a href="/Management/members/">Management Members!</a></p>
+     <p><a href="http://discord.gg/G7MRhvzqAG">Then join our discord server</a></p> - it helps make Flight Club way more enjoyable!
+   </div>
+
+
+2. Our TOS will be found on our website; please read it before you access our system. 
 3. Once you have entered your API key, press login, and you are now officially a member of the Flight Club – Welcome aboard!. This means you can start sending in items straight away.
 4. Now you have registered on our website, you can join our Discord and our system will automatically assign the TFC member role, this may take up to an hour but it auto runs every hour, please be patient. It is not a requirement to join our Discord, but we recommend it for, reading announcements and updates on prices and priority items, and for participating in competitions, team games and community chat.
 

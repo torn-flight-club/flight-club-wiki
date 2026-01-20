@@ -14,3 +14,16 @@ sidebar_position: 5
 
 * 10k points for 48 hours flying/week
 * NFS items give ~0.2 points per flight-minute to obtain
+
+### Top Gun: Payback 
+
+* Earn points based on **lowest 3 stock items**:
+
+  * Lowest → 3 points  
+  * Second → 2 points  
+  * Third → 1 point
+
+**Lotto:**
+
+* 1 point = 1 ticket/$1
+* Winner drawn every **6 hours**

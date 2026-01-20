@@ -15,7 +15,7 @@ sidebar_position: 5
 * 10k points for 48 hours flying/week
 * NFS items give ~0.2 points per flight-minute to obtain
 
-## ✈✈✈✈✈
+### ✈✈✈✈✈
 
 ## Top Gun: Payback
 
@@ -30,11 +30,7 @@ sidebar_position: 5
 * 1 point = 1 ticket/$1
 * Winner drawn every **6 hours**
 
-
-
-## ✈✈✈✈✈
-
-
+### ✈✈✈✈✈
 
 ## Crew Titles
 
@@ -43,7 +39,27 @@ sidebar_position: 5
 * **First Officer** – 180+ days & 10k contribution → 1.02× multiplier
 * **Captain** – 180+ days & 10k contribution → 1.05× multiplier
 
-## ✈✈✈✈✈
+### ✈✈✈✈✈
+
+## Monthly Top 10 Rankings
+
+Monthly bonuses for the top 10 members:
+
+**Rank Bonus:**
+
+1st$1m
+
+2nd$900k
+
+3rd$800k
+
+......10th$100k
+
+
+
+
+
+### ✈✈✈✈✈
 
 ## Planned Competitions
 
@@ -60,6 +76,12 @@ sidebar_position: 5
 * Every 5 points = 1 ticket/$1
 * Winner drawn every **6 hours**
 
+### ✈✈✈✈✈
+
 ### *Teams (planned)*
 
 *Watch this space!*
+
+
+
+⚠️ **Note:** Competitions and payouts can change. All changes will be announced in advance and scheduled to start at the beginning of a month - unless urgent changes are needed for Club financial stability.

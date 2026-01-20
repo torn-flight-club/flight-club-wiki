@@ -1,6 +1,6 @@
 ---
 id: Quick Guide to Getting Started
-title: Welcome to Flight Club
+title: Welcome to Flight Club and Quickstart Guide
 sidebar_position: 0
 ---
 <div style={{ textAlign: 'center' }}>

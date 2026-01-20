@@ -41,6 +41,8 @@ sidebar_position: 5
 
 
 
+## Planned Competitions
+
 ### *Top Gun: Inverted (Planned)*
 
 * Earn points for flying to NFS destinations:

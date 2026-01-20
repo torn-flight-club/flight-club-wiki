@@ -30,13 +30,13 @@ Here are some ways to Hospitalize Yourself:
 
 Once in hospital, you can set up what's called a "ghost trade" with a buddy
 
-<div style="text-align: center;">
+<div style={{ textAlign: 'center' }}>
   <img src="/img/ghost_trade.png" />
 </div>
 
 Put your money into the trade – and don't click accept
 
-<div style="text-align: center;">
+<div style={{ textAlign: 'center' }}>
   <img src="/img/ghosttrade2.png" />
 </div>
 

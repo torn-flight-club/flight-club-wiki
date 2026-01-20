@@ -9,13 +9,13 @@ sidebar_position: 3
 
 - On your dashboard you can always see your balance owing, and also your estimated bonus to be paid at the end of each month.
 
-<div style="text-align: center;">
+<div style={{ textAlign: 'center' }}>
   <img src="/img/dashboard_1.png" />
 </div>
 
 - In Discord you can use the /mystats command to see your outstanding balance.
 
-<div style="text-align: center;">
+<div style={{ textAlign: 'center' }}>
   <img src="/img/dashboard_1.png" />
 </div>
 

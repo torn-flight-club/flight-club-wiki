@@ -3,8 +3,8 @@ id: Quick Guide to Getting Started
 title: Welcome to Flight Club
 sidebar_position: 0
 ---
-<div style="text-align: center;">
-  <img src="/img/tfc-logo.webp" alt="TFC logo" style="max-width: 300px;" />
+<div style={{ textAlign: 'center' }}>
+  <img src="/img/tfc-logo.webp" alt="TFC logo" style={{ maxWidth: '300px' }} />
   <p>Head to <a href="https://tornflight.club" target="_blank" rel="noopener noreferrer">tornflight.club</a> to sign up!</p>
   <p>Any question? Talk to one of our <a href="/Management/members/">Management Members!</a></p>
   <p><a href="http://discord.gg/G7MRhvzqAG">Join our discord server!</a></p>
@@ -27,7 +27,7 @@ sidebar_position: 0
 9. Rinse and Repeat.
 
 ## How it Works
-<div style="text-align: center;">
+<div style={{ textAlign: 'center' }}>
   <img src="/img/howflightclubworks.jpg" />
 </div>
 

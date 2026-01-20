@@ -13,6 +13,6 @@ The inventory channel in Discord shows:
 - all items contributed by all members
 - the stock being held by the club.
 
-<div style="text-align: center;">
+<div style={{ textAlign: 'center' }}>
   <img src="/img/dashboard_1.png" />
 </div>

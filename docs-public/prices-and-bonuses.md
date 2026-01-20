@@ -12,7 +12,7 @@ sidebar_position: 4
 - Flight Club prices are updated every few hours
 - You can see Flight Club Prices live in our discord channel #pricelist
 
-<div style="text-align: center;">
+<div style={{ textAlign: 'center' }}>
   <img src="/img/discord_pricelist_example.png" />
 </div>
 

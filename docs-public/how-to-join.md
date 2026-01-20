@@ -3,9 +3,6 @@ id: How to Join Us
 title: How to Join Us
 sidebar_position: 1
 ---
-### Page 2: How to Join Us
-
-
 # Register on our website and discord
 
 1. To register for the Flight Club. Please visit tornflight.club and enter your PUBLIC API key. 
@@ -16,10 +13,10 @@ sidebar_position: 1
 With our new system, we no longer require our members to join our discord server, but it is highly recommended because it is where you can access:
 
 1. **Announcements**
+
    1. Price Updates
    2. Stock Updates
 2. **Club Chat**
 3. **Contributions Log** (Every contribution is posted live automatically)
 4. **Access to weekly lotto's**
 5. Please ensure you follow our Rules.
-

@@ -27,7 +27,7 @@ sidebar_position: 5
 
 **Lotto:**
 
-* 1 point = 1 ticket/$1
+* 1 point = 1 ticket/$10
 * Winner drawn every **6 hours**
 
 #### ✈✈✈✈✈
@@ -55,10 +55,6 @@ Monthly bonuses for the top 10 members:
 
 ......10th$100k
 
-
-
-
-
 #### ✈✈✈✈✈
 
 ## Planned Competitions
@@ -81,7 +77,5 @@ Monthly bonuses for the top 10 members:
 ### *Teams (planned)*
 
 *Watch this space!*
-
-
 
 ⚠️ **Note:** Competitions and payouts can change. All changes will be announced in advance and scheduled to start at the beginning of a month - unless urgent changes are needed for Club financial stability.

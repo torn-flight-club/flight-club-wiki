@@ -4,16 +4,15 @@ sidebar_position: 3
 ---
 ### Page 4: How to Ask for Your Money
 
-
 ## Where do I see how much money I have owing?
 
-- On your dashboard you can always see your balance owing, and also your estimated bonus to be paid at the end of each month.
+* On your dashboard you can always see your balance owing, and also your estimated bonus to be paid at the end of each month.
 
 <div style={{ textAlign: 'center' }}>
   <img src="/img/dashboard_1.png" />
 </div>
 
-- In Discord you can use the /mystats command to see your outstanding balance.
+* In Discord you can use the /mystats command to see your outstanding balance.
 
 <div style={{ textAlign: 'center' }}>
   <img src="/img/dashboard_1.png" />
@@ -27,6 +26,6 @@ sidebar_position: 3
 
 ## Can I ask for partial payment?
 
-- Yes, You can either request your full balance, or just a portion of what you are owed (eg for running Xanax and or requesting just enough cash to buy items when you land).
-- If you don't add any note or specify any particular amount, we will send your full balance.
-- Please note we have a minimum requirement for $1m for partial payment requests, or your full balance if your balance owing is less than $1m.
+* Yes, You can either request your full balance, or just a portion of what you are owed (eg for running Xanax and or requesting just enough cash to buy items when you land).
+* If you don't add any note or specify any particular amount, we will send your full balance.
+* Please note we have a **minimum requirement for $1m** for partial payment requests, or your full balance if your balance owing is less than $1m.

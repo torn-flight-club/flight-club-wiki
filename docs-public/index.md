@@ -10,15 +10,14 @@ sidebar_position: 0
   <p><a href="http://discord.gg/G7MRhvzqAG">Join our discord server!</a></p>
 </div>
 
-### Page 1: How Flight Club works – quick guide to getting started
-
 ## Quick Start Guide
 
 1. Sign up at <a href="https://tornflight.club">tornflight.club</a> and join our Discord
 2. Fly or market-buy Plushies or Flowers, or selected Drugs and Other Items (Temps).
 3. Send your items to The Flight Club
-   - Send Drugs and Other Items (Temps) to GalloInfligo.
-   - Send Flowers or Plushies to MIA.
+
+   * Send Drugs and Other Items (Temps) to GalloInfligo.
+   * Send Flowers or Plushies to MIA.
 4. Wait a few minutes for your contribution to register. You can see it popping up in Discord Contributions channel.
 5. Check your dashboard to check your Outstanding Balance for all items you have sent and the prizes you have earned.
 6. Request payment when you need it by sending $1 to any manager, using the payment request button on the dashboard, or using /requestpay command in discord.
@@ -27,22 +26,23 @@ sidebar_position: 0
 9. Rinse and Repeat.
 
 ## How it Works
+
 <div style={{ textAlign: 'center' }}>
   <img src="/img/howflightclubworks.jpg" />
 </div>
 
 ## Why join?
 
-- **Proven track record**: Four successful seasons and loyal long-term members
-- **Top-tier pricing**: Our offers consistently beat most traders
-- **Safe & scam-free**: Avoid buy-muggers and shady trades
-- **Flexible payouts**: We hold your funds safely until you're ready to withdraw
-- **We are a club not a faction**: you get to stay in your faction while being a member
-- **Monthly bonuses**: Earn rewards based on your item contributions
-- **Community & competition**: Join fun team events and win prizes
-- **Friendly players worldwide**: Connect with like-minded Torn users
-- **Powerful tools**: Legit, Torn-compliant systems to help you find the best marketplace deals
-- **Full transparency**: Real-time tracking and open accounting
+* **Proven track record**: Four successful seasons and loyal long-term members
+* **Top-tier pricing**: Our offers consistently beat most traders
+* **Safe & scam-free**: Avoid buy-muggers and shady trades
+* **Flexible payouts**: We hold your funds safely until you're ready to withdraw
+* **We are a club not a faction**: you get to stay in your faction while being a member
+* **Monthly bonuses**: Earn rewards based on your item contributions
+* **Community & competition**: Join fun team events and win prizes
+* **Friendly players worldwide**: Connect with like-minded Torn users
+* **Powerful tools**: Legit, Torn-compliant systems to help you find the best marketplace deals
+* **Full transparency**: Real-time tracking and open accounting
 
 ## About The Flight Club
 

@@ -130,7 +130,7 @@ Pending more market research and comparison with top traders.
 
 - - -
 
-### Top Gun: Payback (Proposed)
+### Top Gun: Payback 
 
 * Earn points based on **lowest 3 stock items**:
 
@@ -141,7 +141,7 @@ Pending more market research and comparison with top traders.
 **Lotto:**
 
 * 1 point = 1 ticket/$1
-* Winner drawn every **10 minutes**
+* Winner drawn every **6 hours**
 
 - - -
 

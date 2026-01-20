@@ -37,7 +37,7 @@ sidebar_position: 5
 * **Cadet** – default
 * **Second Officer** – 90+ days & 1k contribution → 1.01× multiplier
 * **First Officer** – 180+ days & 10k contribution → 1.02× multiplier
-* **Captain** – 180+ days & 10k contribution → 1.05× multiplier
+* **Captain** – 180+ days & 10k contribution and Globetrotter merit → 1.05× multiplier
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
@@ -71,8 +71,6 @@ Monthly bonuses for the top 10 members:
 
 * Every 5 points = 1 ticket/$1
 * Winner drawn every **6 hours**
-
-
 
 ### *Teams (planned)*
 

@@ -1,6 +1,6 @@
 ---
 title: Awards & Competitions
-sidebar_position: -4
+sidebar_position: 0
 ---
 ### Top Gun: Need For Speed 2.0
 

@@ -5,10 +5,21 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Wiki Editor</title>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 
 <body>
     <script src="https://unpkg.com/decap-cms@latest/dist/decap-cms.js"></script>
+    <script>
+        // Redirect invite/confirmation/recovery tokens to the invite page
+        if (window.location.hash && (
+            window.location.hash.includes('invite_token=') ||
+            window.location.hash.includes('confirmation_token=') ||
+            window.location.hash.includes('recovery_token=')
+        )) {
+            window.location.href = '/admin/invite.html' + window.location.hash;
+        }
+    </script>
 </body>
 
 </html>

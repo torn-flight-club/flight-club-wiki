@@ -26,6 +26,6 @@ Members do not need to join our discord server, but it is highly recommended bec
    1. Price Updates
    2. Stock Updates
    3. Competitions and game details
-2. **Club Chat** 
+2. **Club Chat -** keep up with the latest goss and info, get tips which locations are worth flying to
 3. **Contributions Log** (Every contribution is posted live automatically)
-4. **Access to weekly lotto's**
+4. **Access to weekly lottos**

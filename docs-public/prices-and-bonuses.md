@@ -22,9 +22,55 @@ Example only, prices change frequently in line with the market.
 * Your position on the leaderboard is determined by your total contribution points.
 * As you send items, your contribution ratio will increase.
 
-The Contribution ratio for each item is calculated from the overall set value total and is listed here.
+The Contribution ratio for each item is calculated from the total set value and is listed below:
 
-![](/img/pretty_table_contribution.png "Contribution value per Flushie")
+### Contribution Value for each flushie
+
+African Violet 41.6
+
+Banana Orchid 5.0
+
+Ceibo Flower 23.4
+
+Cherry Blossom 31.6
+
+Crocus 5.8
+
+Dahlia 3.6
+
+Edelweiss 24.6
+
+Heather 22.2
+
+Orchid 18.8
+
+Peony 33.8
+
+Tribulus Omanense 38.0
+
+Camel Plushie 38.0
+
+Chamois Plushie 24.6
+
+Jaguar Plushie 3.6
+
+Lion Plushie 41.6
+
+Monkey Plushie 23.4
+
+Nessie Plushie 22.2
+
+Panda Plushie 33.8
+
+Red Fox Plushie 22.2
+
+Stingray Plushie 5.0
+
+Wolverine Plushie 5.8
+
+##### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
 
 ## How is my Flushies monthly bonus calculated?
 
@@ -61,10 +107,10 @@ Monthly Bonus is paid to the members that sent in items first. In accounting ter
 
 ## How can I increase my bonus?
 
-Flight Club games, which will be launched again this season, usually reward members for contributing items most needed by the Club to complete sets.
+Flight Club games like Need for Speed, reward members for contributing items most needed by the Club to complete sets.
 
-We are also planning to reintroduce dynamic pricing so that you will earn more by contributing most needed items.
+We also use dynamic pricing so that you will earn more by contributing most needed items.
 
 You can find out which items are most needed by using the command /flyme in our discord.
 
-You can also watch bazaars and the item market and buy items you see listed at less than market price and sell them to club.
+You can also watch bazaars and the item market and buy items you see listed at less than market price and sell them to the club.

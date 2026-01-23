@@ -2,11 +2,9 @@
 title: How to Ask for Your Money
 sidebar_position: 3
 ---
-### Page 4: How to Ask for Your Money
-
 ## Where do I see how much money I have owing?
 
-* On your dashboard you can always see your balance owing, and also your estimated bonus to be paid at the end of each month.
+* On your dashboard you can always see your balance owing, and  your bonus (estimated only) to be paid at the end of each month.
 
 <div style={{ textAlign: 'center' }}>
   <img src="/img/dashboard_1.png" />
@@ -20,12 +18,12 @@ sidebar_position: 3
 
 ## What are the three ways I can request my balance?
 
-1. **In Torn** - You can request your balance from at any time by using our automated payment request system: Send $1 to any manager,
-2. **On our website** – you can use the payment request button on the website, or use our discord bot using the /requestpay command.
-3. **In Discord** – you can use our discord bot by typing the /requestpay command.
+1. **In Torn** - request your balance any time using our automated payment request system: Send $1 to any manager
+2. **On our website** – use the payment request button on the website
+3. **In Discord** – use our discord bot by typing the /requestpay command.
 
 ## Can I ask for partial payment?
 
-* Yes, You can either request your full balance, or just a portion of what you are owed (eg for running Xanax and or requesting just enough cash to buy items when you land).
+* Yes- you can either request your full balance, or just a portion of what you are owed (eg for running Xanax and or requesting just enough cash to buy items when you land).
+* Please note we have a **minimum requirement for $1m** for partial payment requests, or your full balance if your balance owing is less than $1m
 * If you don't add any note or specify any particular amount, we will send your full balance.
-* Please note we have a **minimum requirement for $1m** for partial payment requests, or your full balance if your balance owing is less than $1m.

@@ -2,17 +2,24 @@
 title: Guides and Tools - sharpen your game!
 sidebar_position: 8
 ---
-1.   <https://greasyfork.org/en/scripts/558052-flightclub>
+#### 1. Flight Club Helper Script
+
+[Flight Club Helper Script](https://greasyfork.org/en/scripts/558052-flightclub)[](https://greasyfork.org/en/scripts/558052-flightclub)
+
+ Flight Club helper script for Torn - this changes the buttons to help you send items to the right Flight Club manager
 
 
 
-   [FlightClub](https://greasyfork.org/en/scripts/558052-flightclub)
+#### 2. Torn Travel Planner
 
-   Flight Club helper script for Torn
-2.   <https://www.torntravel.com/?utm_medium=referral&utm_source=flightclub&utm_campaign=partnership&utm_content=tools_section>
+The ultimate travel planning tool for Torn City. Optimize your trading routes using real-time item prices to maximize profits. This site has including Flight Club pricing extensively through his site. 
 
-   Torn Travel Planner
+[Torn Travel Planner](https://www.torntravel.com/?utm_medium=referral&utm_source=flightclub&utm_campaign=partnership&utm_content=tools_section)[](https://www.torntravel.com/?utm_medium=referral&utm_source=flightclub&utm_campaign=partnership&utm_content=tools_section)[](<>)
 
-   [Torn Travel Planner - Optimize Your Trading & Travel Routes](https://www.torntravel.com/?utm_medium=referral&utm_source=flightclub&utm_campaign=partnership&utm_content=tools_section)
+[](<>)
 
-   The ultimate travel planning tool for Torn City. Optimize your trading routes using real-time item prices to maximize profits.
+#### 3. TexasTuberTim's Travel Guide
+
+Handy [video guide ](https://youtu.be/Y2nlP4m1Ajo?si=y52pSAPXYVgrlci8)for travellers
+
+[](https://www.torntravel.com/?utm_medium=referral&utm_source=flightclub&utm_campaign=partnership&utm_content=tools_section)

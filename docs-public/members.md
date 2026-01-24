@@ -1,7 +1,7 @@
 ---
 id: staff
 title: Staff
-sidebar_position: 7
+sidebar_position: 9
 ---
 
 import StaffMembers from '@site/src/components/StaffMembers.js';

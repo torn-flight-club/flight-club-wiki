@@ -5,11 +5,7 @@ sidebar_position: 1
 ---
 # Register on our website and discord
 
-1. To register for the Flight Club. Please  
-     <p>Head to <a href="https://tornflight.club" target="_blank" rel="noopener noreferrer">tornflight.club</a> to enter your PUBLIC API key and sign up!</p> 
-     <p>Any question? Talk to one of our <a href="/Management/members/">Management Members!</a></p>
-     <p><a href="http://discord.gg/G7MRhvzqAG">Then join our discord server</a></p> - it helps make Flight Club way more enjoyable!
-   </div>
+1. To register for the Flight Club. Please head to [tornflight.club](https://tornflight.club) to enter your PUBLIC API key and sign up! Any question? Talk to one of our [Management Members!](/Management/members/) [Then join our discord server](http://discord.gg/G7MRhvzqAG) - it helps make Flight Club way more enjoyable!
 
 
 2. Our TOS will be found on our website; please read it before you access our system. 

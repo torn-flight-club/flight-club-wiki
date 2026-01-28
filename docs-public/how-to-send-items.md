@@ -7,7 +7,7 @@ sidebar_position: 2
 
 We currently deal with all plushies and flowers that make up Museum Sets, as well as Xanax, and temps (temporary weapons like grenades). You can see the full list of items and the prices paid here: [tornflight.club/items](https://tornflight.club/items)[](https://tornflight.club/items)
 
-***Please note - keep an eye out for announcements in our discord or on our list of items we deal with on our website. We are planning to add in the new items recently added to overseas markets.*** 
+***Please note - we have recently added to the list of items we deal in, to include common crime items, medical items and artifacts. Check the link above to see the full list.***
 
 You will be paid for Plushies, Flowers or other items you send in, at Club Value at the time you send them. 
 

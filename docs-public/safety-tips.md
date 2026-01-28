@@ -25,7 +25,7 @@ Here are some ways to Hospitalize Yourself:
 * **Lose at Russian Roulette**
 * **Fail a crime** that puts you in hospital
 
-## The "Fake Trade" Protection Method
+## The "Ghost  Trade" Protection Method
 
 Once in hospital, you can set up what's called a "ghost trade" with a buddy
 

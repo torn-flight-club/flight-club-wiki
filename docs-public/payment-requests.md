@@ -32,4 +32,6 @@ sidebar_position: 3
 
 ## How long does it take to get paid?
 
-Payments are made by a member of our Management Team. We aim to make payments within ***one hour*** and mostly achieve this**.** Please don't send repeated requests, a manager will complete your payment as soon as they are available.
+Payments are made manually by a member of our Management Team (this is to meet compliance with Torn rules). We aim to make payments within ***one hour*** and mostly achieve this.
+
+Please don't send repeated requests, a manager will complete your payment as soon as they are available.

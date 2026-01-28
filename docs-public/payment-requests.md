@@ -28,6 +28,8 @@ sidebar_position: 3
 * Please note we have a ***minimum requirement for $1m*** for partial payment requests, or your full balance if your balance owing is less than $1m
 * If you don't add any note or specify any particular amount, we will send your full balance.
 
-### How long does it take to get paid?
+
+
+## How long does it take to get paid?
 
 Payments are made by a member of our Management Team. We aim to make payments within ***one hour*** and mostly achieve this**.** Please don't send repeated requests, a manager will complete your payment as soon as they are available.

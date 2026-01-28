@@ -5,7 +5,9 @@ sidebar_position: 2
 ---
 ## What items does The Flight Club deal in?
 
-We currently deal with all plushies and flowers that make up Museum Sets, as well as Xanax, and temps (temporary weapons like grenades). You can see the full list of items and the prices paid here: [tornflight.club/items](https://tornflight.club/items)
+We currently deal with all plushies and flowers that make up Museum Sets, as well as Xanax, and temps (temporary weapons like grenades). You can see the full list of items and the prices paid here: [tornflight.club/items](https://tornflight.club/items)[](https://tornflight.club/items)
+
+***Please note - keep an eye out for announcements in our discord or on our list of items we deal with on our website. We are planning to add in the new items recently added to overseas markets.*** 
 
 You will be paid for Plushies, Flowers or other items you send in, at Club Value at the time you send them. 
 
@@ -15,7 +17,7 @@ You don't have to fly for sets, but to help maximise set completion we recommend
 
 * Once your registration is completed.
 * Send plushies and flowers only to [MIA](https://www.torn.com/profiles.php?XID=131289)
-* Send Drugs and Other Items (temps etc) only to [GalloInfligo\[2133394\]](https://www.torn.com/profiles.php?XID=2133394)
+* Send Drugs and Other Items (temps etc) only to [GalloInfligo\[2133394]](https://www.torn.com/profiles.php?XID=2133394)
 
 ## How do I actually send Items?
 

@@ -25,5 +25,9 @@ sidebar_position: 3
 ## Can I ask for partial payment?
 
 * Yes- you can either request your full balance, or just a portion of what you are owed (eg for running Xanax and or requesting just enough cash to buy items when you land).
-* Please note we have a **minimum requirement for $1m** for partial payment requests, or your full balance if your balance owing is less than $1m
+* Please note we have a ***minimum requirement for $1m*** for partial payment requests, or your full balance if your balance owing is less than $1m
 * If you don't add any note or specify any particular amount, we will send your full balance.
+
+### How long does it take to get paid?
+
+Payments are made by a member of our Management Team. We aim to make payments within ***one hour*.** Please don't send repeated requests, a manager will complete your payment as soon as they are available.

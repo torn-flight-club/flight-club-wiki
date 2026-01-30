@@ -6,7 +6,7 @@ sidebar_position: 8
 
 [Flight Club Helper Script](https://greasyfork.org/en/scripts/558052-flightclub)
 
- Flight Club helper script for Torn - this changes the buttons to help you send items to the right Flight Club manager
+ Flight Club helper script for Torn - this changes the buttons to help you send items to the right Flight Club manager - made by a Flight Club member
 
 #### 2. Torn Travel Planner
 
@@ -16,6 +16,8 @@ The ultimate travel planning tool for Torn City. Optimize your trading routes us
 
 #### 3. TexasTuberTim's Travel Guide
 
-Handy [video guide ](https://youtu.be/Y2nlP4m1Ajo?si=y52pSAPXYVgrlci8)for travellers
+Handy [video guide ](https://youtu.be/Y2nlP4m1Ajo?si=y52pSAPXYVgrlci8)for travellers by a Flight Club member
 
-[](https://www.torntravel.com/?utm_medium=referral&utm_source=flightclub&utm_campaign=partnership&utm_content=tools_section)
+#### 4. Check prices for contraband before you buy 
+
+Good information available on this contraband variable pricing forum thread started by one of our members  [link](https://www.torn.com/forums.php#p=threads&f=2&t=16524894&b=0&a=0)[](https://www.torn.com/forums.php#p=threads&f=2&t=16524894&b=0&a=0)

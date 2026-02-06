@@ -2,7 +2,11 @@
 title: Awards & Competitions
 sidebar_position: 5
 ---
-## Top Gun: Need For Speed 2.0
+## About our Awards and Competitions
+
+Our awards and competitions are designed to incentivise members to help complete sets. 
+
+## Top Gun: Need For Speed (NFS) 2.0
 
 **4-week cycle:**  
 
@@ -15,6 +19,8 @@ sidebar_position: 5
 * 10k points for 48 hours flying/week
 * NFS items give ~0.2 points per flight-minute to obtain
 
+In the weekly Top Gun: NFS awards you are trying to get 20k of those points in a week.  For an example, each camel is worth 38 points. So if you fly 48 hours (10k points) and turn in 264 camels a week, that's your 20k and you will earn an extra $2m minimum.
+
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 ## Top Gun: Payback
@@ -25,21 +31,27 @@ sidebar_position: 5
   * Second → 2 points  
   * Third → 1 point
 
-**Lotto:**
+The 1 to 3 per item points is for Top Gun: Payback, which is the every 6 hour lotto you see in ⁠🎁︱awards . These points are used in that lotto every 6 hours then are no longer relevant and don't add up past the period where you earned them.  There isn't currently a way to see how many "tickets" you have other than manually adding them up from the ⁠🧸︱contributions channel in our discord.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## **Lotto:**
 
 * 1 point = 1 ticket/$10
 * Winner drawn every **6 hours**
 
-#### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ## Crew Titles
+
+Your rank, is calculated based on your contribution amount (the flight time to get your item / total amount of flight time to get a set of items (eg a camel is .2351 "contribution sets") and your time in The Club. This then increases the monthly bonus you receive when your items are sold by the Club.
 
 * **Cadet** – default
 * **Second Officer** – 90+ days & 1k contribution → 1.01× multiplier
 * **First Officer** – 180+ days & 10k contribution → 1.02× multiplier
 * **Captain** – 180+ days & 10k contribution and Globetrotter merit → 1.05× multiplier
 
-#### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ## Monthly Top 10 Rankings
 

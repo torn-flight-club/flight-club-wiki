@@ -72,11 +72,11 @@ Wolverine Plushie 5.8
 
 ## How is my Flushies bonus calculated?
 
-Your Flushies  bonus is calculated from the overall profit that the club achieves at the end of the set time period, this is currently one week.
+Your Flushies  bonus is calculated from the overall profit that the club achieves at the end of a set time period, this is currently one week, but can vary.
 
 * Sets are exchanged for points at the Museum.
 * Management sells those points for profit.
-* 50% of the additional profit goes to Member Monthly Bonuses.
+* 50% of the additional profit goes to Member Bonuses.
 
 ### Bonus Distribution Example
 
@@ -97,11 +97,11 @@ For Xanax and other items, you receive an automatic 50% of the profit the club m
 
 ## What does FIFO (First In First Out) mean for my bonus?
 
-We use a FIFO (First In First Out) method for your bonus, so some week's bonus will be better than other week's, based on where your items were in the FIFO order they were sold. Not all items are exchanged/sold in a given week.
+We use a FIFO (First In First Out) method for your bonus, so some bonuses will be better than other week's, based on where your items were in the FIFO order they were sold. Not all items are exchanged/sold in a given period.
 
-Some items will carry over to the next week.
+Some items will carry over to the next bonus period.
 
-Weekly Bonus is paid to the members that sent in items first. In accounting terms, this is a First-In-First-Out (FIFO) order. If your items remained unsold at the end of the week, your previous  bonus will be added to your next week's outstanding bonus.
+Bonus is paid to the members that sent in items first. In accounting terms, this is a First-In-First-Out (FIFO) order. If your items remained unsold at the end of the period, your previous  bonus will be added to your next period's outstanding bonus.
 
 ## How can I increase my bonus?
 

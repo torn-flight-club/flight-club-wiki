@@ -38,7 +38,7 @@ sidebar_position: 0
 * **Safe & scam-free**: Avoid buy-muggers and shady trades
 * **Flexible payouts**: We hold your funds safely until you're ready to withdraw
 * **We are a club not a faction**: you get to stay in your faction while being a member
-* **Monthly bonuses**: Earn rewards based on your item contributions
+* **Bonuses**: Earn rewards based on your item contributions over a set period, currently one week.
 * **Community & competition**: Join fun team events and win prizes
 * **Friendly players worldwide**: Connect with like-minded Torn users
 * **Powerful tools**: Legit, Torn-compliant systems to help you find the best marketplace deals

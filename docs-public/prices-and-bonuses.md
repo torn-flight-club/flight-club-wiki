@@ -97,7 +97,7 @@ For Xanax and other items, you receive an automatic 50% of the profit the club m
 
 ## What does FIFO (First In First Out) mean for my bonus?
 
-We use a FIFO (First In First Out) method for your bonus, so some bonuses will be better than other week's, based on where your items were in the FIFO order they were sold. Not all items are exchanged/sold in a given period.
+We use a FIFO (First In First Out) method for your bonus, so some bonuses will be better than other period's, based on where your items were in the FIFO order they were sold. Not all items are exchanged/sold in a given period.
 
 Some items will carry over to the next bonus period.
 

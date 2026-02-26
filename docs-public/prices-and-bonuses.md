@@ -70,11 +70,9 @@ Wolverine Plushie 5.8
 
 ##### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+## How is my Flushies bonus calculated?
 
-
-## How is my Flushies monthly bonus calculated?
-
-Your Flushies Monthly bonus is calculated from the overall profit that the club achieves at the end of the month.
+Your Flushies  bonus is calculated from the overall profit that the club achieves at the end of the set time period, this is currently one week.
 
 * Sets are exchanged for points at the Museum.
 * Management sells those points for profit.
@@ -95,15 +93,15 @@ You can check your balance and bonus anytime.
 
 ## How is my Xanax and other items monthly bonus calculated?
 
-For Xanax and other items, you receive an automatic 50% of the profit the club makes when we sell it. This is added to your end-of-month bonus.
+For Xanax and other items, you receive an automatic 50% of the profit the club makes when we sell it. This is added to your end-of-week bonus.
 
 ## What does FIFO (First In First Out) mean for my bonus?
 
-We use a FIFO (First In First Out) method for your bonus, so some month's bonus will be better than other month's, based on where your items were in the FIFO order they were sold. Not all items are exchanged/sold in a given month.
+We use a FIFO (First In First Out) method for your bonus, so some week's bonus will be better than other week's, based on where your items were in the FIFO order they were sold. Not all items are exchanged/sold in a given week.
 
-Some items will carry over to the next month.
+Some items will carry over to the next week.
 
-Monthly Bonus is paid to the members that sent in items first. In accounting terms, this is a First-In-First-Out (FIFO) order. If your items remained unsold at the end of the month, your previous months bonus will be added to your next month's outstanding bonus.
+Weekly Bonus is paid to the members that sent in items first. In accounting terms, this is a First-In-First-Out (FIFO) order. If your items remained unsold at the end of the week, your previous  bonus will be added to your next week's outstanding bonus.
 
 ## How can I increase my bonus?
 

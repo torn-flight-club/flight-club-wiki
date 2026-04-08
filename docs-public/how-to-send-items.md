@@ -17,7 +17,7 @@ You don't have to fly for sets, but to help maximise set completion we recommend
 
 * Once your registration is completed.
 * Send plushies and flowers only to [MIA](https://www.torn.com/profiles.php?XID=131289)
-* Send Drugs and Other Items (temps etc) only to [GalloInfligo\[2133394]](https://www.torn.com/profiles.php?XID=2133394)
+* Send Drugs and Other Items (temps etc) only to [GalloInfligo]((https://www.torn.com/profiles.php?XID=2133394))[]((https://www.torn.com/profiles.php?XID=2133394))
 
 ## How do I actually send Items?
 

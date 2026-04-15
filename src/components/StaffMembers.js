@@ -41,9 +41,9 @@ const StaffGrid = () => {
     { name: 'RakuyoYumishi', role: 'Management', id: '3248757', imageUrl: 'https://profileimages.torn.com/b96ea0f0-76b3-4382-bd31-0b9874393376-3248757.png' },
     { name: 'TheFelan', role: 'Management', id: '945786', imageUrl: 'https://profileimages.torn.com/d5e0ef1e-db43-4fc7-9406-febfe926cdfc-945786.png' },
     { name: 'harpy', role: 'Management', id: '2630673', imageUrl: 'https://profileimages.torn.com/1662e9a8-466d-4ea5-894a-8e6e76fc5365-2630673.png' },
-    { name: 'Meliyara', role: 'Management', id: '3489897', imageUrl: 'https://profileimages.torn.com/ec4fdc1a-d555-4f11-ae0e-d15da3392126-3489897.gif?v=1940629196397', }
-    { name: 'Acayib', role: 'Management', id: '2895639', imageUrl: 'https://profileimages.torn.com/2a21e077-c01d-4bbc-bea6-0bc099e636f9-2895639.gif?v=1940629196397', }
-    { name: 'Jelli_Jynx', role: 'Management', id: '3890054', imageUrl: 'https://profileimages.torn.com/b126cf4a-ee5d-4a04-a99a-2620b14f77f2-3890054.png?v=1940629196397', }
+    { name: 'Meliyara', role: 'Management', id: '3489897', imageUrl: 'https://profileimages.torn.com/ec4fdc1a-d555-4f11-ae0e-d15da3392126-3489897.gif?v=1940629196397' },
+    { name: 'Acayib', role: 'Management', id: '2895639', imageUrl: 'https://profileimages.torn.com/2a21e077-c01d-4bbc-bea6-0bc099e636f9-2895639.gif?v=1940629196397' },
+    { name: 'Jelli_Jynx', role: 'Management', id: '3890054', imageUrl: 'https://profileimages.torn.com/b126cf4a-ee5d-4a04-a99a-2620b14f77f2-3890054.png?v=1940629196397' },
     { name: 'Marzen', role: 'Developer', id: '3385879', description: 'Website Developer', imageUrl: 'https://profileimages.torn.com/ce1ba452-29b1-4bf5-913b-f850c49b93e2-3385879.png' },
     { name: 'Oldmandanky', role: 'Developer', id: '3191055', description: 'Bot Developer', imageUrl: 'https://profileimages.torn.com/45721035-2add-4ea3-bb02-69e866a304f8-3191055.png?v=1940629196397' },
     { name: 'Zoblefu', role: 'Developer', id: '2890330', imageUrl: 'https://profileimages.torn.com/68abf78b-2249-52bd-2890330.png' },

@@ -6,6 +6,22 @@ sidebar_position: 5
 
 Our awards and competitions are designed to incentivize members to help complete sets. 
 
+## Team Contest
+
+Join one of five teams to compete for a share of the prize pool. Every item you turn in strengthens your team’s position, while captains steer strategy through stances and well-timed attacks. Consistency, coordination, and timing all play a role in climbing the rankings. New features and balancing will occur between sessions.
+
+**Points & Mechanics:**
+Earn points by turning in eligible items: Plushies, Flowers, Artifacts, and Xanax
+Each item has a base point value (e.g., Xanax = 208 points per unit)
+
+Your total is affected by your team’s stance, which applies a Contribution (CTR) multiplier and also impacts Attack (ATK) and Defense (DEF)
+
+Captains can spend team points to attack other teams, reducing their standing based on ATK vs DEF modifiers. Attacks are limited, so timing and coordination matter
+
+At the end of the contest period, teams are ranked and the prize pool is split. Your personal reward is based on how much you contributed to your team’s total
+
+Check the Price List for exact item values and team point totals
+
 ## Top Gun: Need For Speed (NFS) 2.0
 
 **4-week cycle:**  
@@ -84,9 +100,5 @@ Monthly bonuses for the top 10 members:
 
 * Every 5 points = 1 ticket/$1
 * Winner drawn every **6 hours**
-
-### *Teams (planned)*
-
-*Watch this space!*
 
 ⚠️ **Note:** Competitions and payouts can change. All changes will be announced in advance and scheduled to start at the beginning of a month - unless urgent changes are needed for Club financial stability.

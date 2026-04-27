@@ -19,9 +19,9 @@ sidebar_position: 10
 Any profits we make as a Club are split as follows:
 
 * **50%** Member Monthly Bonus  
-* **9%** Awards and Competition Prize Budget  
-* **20%** Management Salary  
-* **20%** Dev Team Salary  
+* **19%** Awards and Competition Prize Budget  
+* **15%** Management Salary  
+* **15%** Dev Team Salary  
 * **1%** ‘Other’ Expenses  
 
   * e.g. unusual plushie set completion, point sale mug losses, accounting reconciliation, etc.

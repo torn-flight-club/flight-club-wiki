@@ -4,16 +4,16 @@ sidebar_position: 5
 ---
 ## About our Awards and Competitions
 
-Our awards and competitions are designed to incentivise members to help complete sets. 
+Our awards and competitions are designed to incentivize members to help complete sets. 
 
 ## Top Gun: Need For Speed (NFS) 2.0
 
 **4-week cycle:**  
 
-* 1 week @ 20k points → **Merlin** = $2m  
-* 2 weeks @ 20k points → **Jester** = $2.4m  
-* 3rd week @ 20k points - no award but needed for week 4
-* 4 weeks @ 20k points → **Viper** = $3m
+* 1 week @ 20k points → **Merlin** = $250k  
+* 2 weeks @ 20k points → **Jester** = $500k  
+* 3rd week @ 20k points → **Maverick =** $1m 
+* 4 weeks @ 20k points → **Viper** = $2m
 
 **Points:**
 
